@@ -84,7 +84,7 @@ def call_to_depth_search(graph, city, level, selectedEndingCity):
     exitValue += 1
     depths[city][1] = exitValue
 
-print("Pilih kota keberangkatan : \n")
+print("\n Pilih kota keberangkatan : \n")
 
 i = 0
 
